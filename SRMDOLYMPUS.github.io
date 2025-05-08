@@ -2,10 +2,12 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewreport" content="width=device-width, initial-scale=1.0">
-  <tiltle> Mi web </tiltle>
+  <title>Mi Página Web</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <hl> SRMD OLYMPUS </hl>
+  <h1>¡Hola, mundo!</h1>
+  <button onclick="saludar()">Haz clic</button>
+  <script src="script.js"></script>
 </body>
 </html>
