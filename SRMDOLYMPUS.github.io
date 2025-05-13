@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title> SRMDOLIMPUS-Shop.com </title>
- <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1> La mejor ropa del mudndo al mejor precio. </h1>
